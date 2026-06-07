@@ -1,0 +1,13 @@
+boto3==1.42.89
+langchain_classic==1.0.7
+langchain_core==1.4.1
+langchain_google_genai==4.2.4
+numpy==2.4.6
+opencv_python==4.13.0.92
+opencv_python_headless==4.13.0.92
+pandas==3.0.3
+python-dotenv==1.2.2
+Requests==2.34.2
+scikit_learn==1.9.0
+tensorflow==2.21.0
+ultralytics==8.4.56
